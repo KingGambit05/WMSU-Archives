@@ -10,13 +10,13 @@
 }
 
 .navbar1 {
-  background-color: #b80c09;
+  background-color: #3d365c;
   display: flex;
   justify-content: end;
 }
 
 .navWMSU {
-  background-color: #570000;
+  background-color: #7c4585;
   display: flex;
   align-items: center;
   gap: 10px;
@@ -24,7 +24,7 @@
 }
 
 .navbar2 {
-  background-color: #570000;
+  background-color: #7c4585;
   color: white;
   padding: 10px;
   text-align: end;
@@ -587,7 +587,7 @@ nav a {
 }
 
 .beyond-footer {
-  background: #570000;
+  background: #3D365C;
   color: #ffffff;
   padding: 40px 60px;
   border-top: 1px solid #440000;
@@ -900,7 +900,7 @@ nav a {
 .wmsu-login-button {
   width: 100%;
   padding: 12px;
-  background: #570000;
+  background: #C95792;
   color: #fff;
   border: none;
   border-radius: 8px;
